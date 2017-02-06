@@ -1,0 +1,1474 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>京东</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>   <!--兼容优化-->
+  <link rel="stylesheet" type="text/css" href="jingdong.css">
+  <script src="jquery-3.1.0.js"></script>
+  <script src="jingdong.js"></script>
+ </head>
+<body>
+    <div class="news-left">
+        <ul>
+           <li><a href="javascript:;">享品质</a></li>
+           <li><a href="javascript:;">服饰美妆</a></li>
+           <li><a href="javascript:;">家电手机</a></li>
+           <li><a href="javascript:;">电脑数码</a></li>
+           <li><a href="javascript:;">3C运动</a></li>
+           <li><a href="javascript:;">爱吃</a></li>
+           <li><a href="javascript:;">母婴</a></li>
+           <li><a href="javascript:;">图书汽车</a></li>
+           <li><a href="javascript:;">虚拟</a></li>
+           <li><a href="javascript:;">还没逛够</a></li>
+           <li class="returntop"><a href="javascript:;">顶部</a></li>
+        </ul>
+    </div>
+    <div class="news-right">
+        <ul>
+           <li><a href="javascript:;">1</a>京东会员</li>
+           <li><a href="javascript:;">2</a>购物车</li>
+           <li><a href="javascript:;">3</a>我的关注</li>
+           <li><a href="javascript:;">4</a>我的足迹</li>
+           <li><a href="javascript:;">5</a>我的消息</li>
+           <li><a href="javascript:;">6</a>反馈</li>
+           <li class="returntop"><a class="returntop" href="javascript:;">TOP</a>顶部</li>
+        </ul>
+    </div>
+ <div class="top-scroll"> 
+    <div class="top-scroll-left">
+      <a href=""><img src="img/top-scroll-img.png"/></a>
+    </div>
+    <div class="top-scroll-right">
+       <input id="top-scroll-right-txt" type="text" placeholder="空气净化器"　name="">
+       <button id="top-scroll-right-btn" type="button">搜索</button>
+    </div>
+ </div>
+ <div class="top"> 
+   <div class="top-left"><i></i>上海</div>
+    <ul class="top-right">
+      <li><a href="#">你好，请登录</a></li>
+      <li><a href="#">免费注册</a></li>
+      <li><a href="#">|</a></li>
+      <li><a href="#">我的订单</a></li>
+      <li><a href="#">|</a></li>
+      <li><div class="top-right-jd">我的琙雅兔∨</div></li>
+      <li><a href="#">|</a></li>
+      <li><a href="#">琙雅兔会员</a></li>
+      <li><a href="#">|</a></li>
+      <li><a href="#">企业采购</a></li>
+      <li><a href="#">|</a></li>
+      <li><div class="top-right-service">客户服务∨</div></li>
+      <li><div class="top-right-null">|</div></li>
+      <li><div class="top-right-nav">网站导航∨</div></li>
+</div>
+<div class="header">
+  <div class="search">
+     琙雅兔商城欢迎您！
+    <div class="form">
+      <input id="search" type="text">
+      <button id="btn" type="button">搜索</button>
+    </div>
+    <div class="shopdown">我的购物车</div>
+    <div class="nav"> 
+    <ul>
+      <li><a href="#">秒杀</a></li>
+      <li><a href="#">优惠券</a></li>
+      <li><a href="#">闪购</a></li>
+      <li><a href="#">拍卖</a></li>
+      <li><a href="#">|</a></li>
+      <li><a href="#">服装</a></li>
+      <li><a href="#">京东超市</a></li>
+      <li><a href="#">生鲜</a></li>
+      <li><a href="#">全球购</a></li>
+      <li><a href="#">|</a></li>
+      <li><a href="#">京东金融</a></li>
+    </ul>
+  </div>    
+  </div> 
+</div>
+<div class="content">
+            <div class="content-left">
+              <ul>
+                <li>
+                   <a href="#">家用电脑</a>
+                   <div class="content-left-item1">1
+                      <div class="inner1"><img src="img/show-img1.png"/></div>
+                     <dl>
+                       <dt>
+                          <a href="#">电脑整机></a>
+                       </dt>
+                       <dd>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                       </dd>                      
+                     </dl>
+                    <dl>
+                       <dt>
+                          <a href="#">电脑整机></a>
+                       </dt>
+                       <dd>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                       </dd>                      
+                     </dl>
+                     <dl>
+                       <dt>
+                          <a href="#">电脑整机></a>
+                       </dt>
+                       <dd>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                       </dd>                      
+                     </dl>
+                     <dl>
+                       <dt>
+                          <a href="#">电脑整机></a>
+                       </dt>
+                       <dd>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                       </dd>                      
+                     </dl>
+                     <dl>
+                       <dt>
+                          <a href="#">电脑整机></a>
+                       </dt>
+                       <dd>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                       </dd>                      
+                     </dl>
+                     <dl>
+                       <dt>
+                          <a href="#">电脑整机></a>
+                       </dt>
+                       <dd>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                       </dd>                      
+                     </dl>
+                     <dl>
+                       <dt>
+                          <a href="#">电脑整机></a>
+                       </dt>
+                       <dd>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                       </dd>                      
+                     </dl>
+                     <dl>
+                       <dt>
+                          <a href="#">电脑整机></a>
+                       </dt>
+                       <dd>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                       </dd>                      
+                     </dl>
+                     <dl>
+                       <dt>
+                          <a href="#">电脑整机></a>
+                       </dt>
+                       <dd>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                       </dd>                      
+                     </dl>
+                     <dl>
+                       <dt>
+                          <a href="#">电脑整机></a>
+                       </dt>
+                       <dd>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                       </dd>                      
+                     </dl>
+                     <dl>
+                       <dt>
+                          <a href="#">电脑整机></a>
+                       </dt>
+                       <dd>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                       </dd>                      
+                     </dl>
+                     <dl>
+                       <dt>
+                          <a href="#">电脑整机></a>
+                       </dt>
+                       <dd>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                       </dd>                      
+                     </dl>
+
+                   </div>
+                </li>
+                <li>
+                  <a href="#">手机</a>
+                  <a href="#">/</a>
+                  <a href="#">运营商</a>
+                  <a href="#">/</a>
+                  <a href="#">数码</a>
+                  <div class="content-left-item1">2
+                    <div class="inner1"><img src="img/show-img1.png"/></div>
+                    <dl>
+                       <dt>
+                          <a href="#">电脑整机></a>
+                       </dt>
+                       <dd>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                       </dd>                      
+                     </dl>
+                  </div>
+                </li>
+                 <li>
+                   <a href="#">电脑办公</a>
+                   <div class="content-left-item1">3
+                      <div class="inner1"><img src="img/show-img1.png"/></div>
+                      <dl>
+                       <dt>
+                          <a href="#">电脑整机></a>
+                       </dt>
+                       <dd>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                       </dd>                      
+                     </dl>
+                   </div>
+                </li>
+                 <li>
+                   <a href="#">家居</a>
+                   <a href="#">/</a>
+                   <a href="#">家具</a>
+                   <a href="#">/</a>
+                   <a href="#">家装</a>
+                   <a href="#">/</a>
+                   <a href="#">厨具</a>
+                   <div class="content-left-item1">4
+                      <div class="inner1"><img src="img/show-img1.png"/></div>
+                      <dl>
+                       <dt>
+                          <a href="#">电脑整机></a>
+                       </dt>
+                       <dd>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                       </dd>                      
+                     </dl>
+                   </div>
+                </li>
+                 <li>
+                   <a href="#">男装</a>
+                   <a href="#">/</a>
+                   <a href="#">女装</a>
+                   <a href="#">/</a>
+                   <a href="#">童装</a>
+                   <a href="#">/</a>
+                   <a href="#">内衣</a>
+                   <div class="content-left-item1">5
+                      <div class="inner1"><img src="img/show-img1.png"/></div>
+                      <dl>
+                       <dt>
+                          <a href="#">电脑整机></a>
+                       </dt>
+                       <dd>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                       </dd>                      
+                     </dl>
+                   </div>
+                </li>
+                 <li>
+                   <a href="#">个人化妆品</a>
+                   <a href="#">/</a>
+                   <a href="#">清洁用品</a>
+                   <a href="#">/</a>
+                   <a href="#">宠物</a>                   
+                   <div class="content-left-item1">6
+                      <dl>
+                       <dt>
+                          <a href="#">电脑整机></a>
+                       </dt>
+                       <dd>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                       </dd>                      
+                     </dl>
+                   </div>
+                </li>
+                 <li>
+                   <a href="#">鞋靴</a>
+                   <a href="#">/</a>
+                   <a href="#">箱包</a>
+                   <a href="#">/</a>
+                   <a href="#">珠宝</a>
+                   <a href="#">/</a>
+                   <a href="#">奢侈品</a>
+                   <div class="content-left-item1">7
+                      <dl>
+                       <dt>
+                          <a href="#">电脑整机></a>
+                       </dt>
+                       <dd>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                       </dd>                      
+                     </dl>
+                   </div>
+                </li>
+                 <li>
+                   <a href="#">运动</a>
+                   <a href="#">/</a>
+                   <a href="#">户外</a>
+                   <a href="#">/</a>
+                   <a href="#">钟表</a>
+                   <div class="content-left-item1">8
+                      <dl>
+                       <dt>
+                          <a href="#">电脑整机></a>
+                       </dt>
+                       <dd>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                       </dd>                      
+                     </dl>
+                   </div>
+                </li>
+                 <li>
+                   <a href="#">汽车</a>
+                   <a href="#">/</a>
+                   <a href="#">汽车用品</a>
+                   <div class="content-left-item1">9
+                      <dl>
+                       <dt>
+                          <a href="#">电脑整机></a>
+                       </dt>
+                       <dd>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                       </dd>                      
+                     </dl>
+                   </div>
+                </li>
+                 <li>
+                   <a href="#">母婴</a>
+                   <a href="#">/</a>
+                   <a href="#">玩具乐器</a>
+                   <div class="content-left-item1">10
+                      <dl>
+                       <dt>
+                          <a href="#">电脑整机></a>
+                       </dt>
+                       <dd>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                       </dd>                      
+                     </dl>
+                   </div>
+                </li>
+                 <li>
+                   <a href="#">食品</a>
+                   <a href="#">/</a>
+                   <a href="#">酒类</a>
+                   <a href="#">/</a>
+                   <a href="#">生鲜</a>
+                   <a href="#">/</a>
+                   <a href="#">特产</a>
+                   <div class="content-left-item1">11
+                      <dl>
+                       <dt>
+                          <a href="#">电脑整机></a>
+                       </dt>
+                       <dd>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                       </dd>                      
+                     </dl>
+                   </div>
+                </li>
+                 <li>
+                   <a href="#">医药保健</a>
+                   <div class="content-left-item1">12
+                      <dl>
+                       <dt>
+                          <a href="#">电脑整机></a>
+                       </dt>
+                       <dd>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                       </dd>                      
+                     </dl>
+                   </div>
+                </li>
+                 <li>
+                   <a href="#">图书</a>
+                   <a href="#">/</a>
+                   <a href="#">音响</a>
+                   <a href="#">/</a>
+                   <a href="#">电子书</a>
+                   <div class="content-left-item1">13
+                      <dl>
+                       <dt>
+                          <a href="#">电脑整机></a>
+                       </dt>
+                       <dd>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                       </dd>                      
+                     </dl>
+                   </div>
+                </li>
+                 <li>
+                   <a href="#">机票</a>
+                   <a href="#">/</a>
+                   <a href="#">酒店</a>
+                   <a href="#">/</a>
+                   <a href="#">旅游</a>
+                   <a href="#">/</a>
+                   <a href="#">生活</a>
+                   <div class="content-left-item1">14
+                      <dl>
+                       <dt>
+                          <a href="#">电脑整机></a>
+                       </dt>
+                       <dd>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                       </dd>                      
+                     </dl>
+                   </div>
+                </li>
+                 <li>
+                   <a href="#">理财</a>
+                   <a href="#">/</a>
+                   <a href="#">众筹</a>
+                   <a href="#">/</a>
+                   <a href="#">白条</a>
+                   <a href="#">/</a>
+                   <a href="#">保险</a>
+                   <div class="content-left-item1">15
+                      <dl>
+                       <dt>
+                          <a href="#">电脑整机></a>
+                       </dt>
+                       <dd>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                          <a href="#">|</a>
+                          <a href="#">手机</a>
+                       </dd>                      
+                     </dl>
+                   </div>
+                </li>                
+            </div>
+            <div class="lunbo">
+                <div class="lb-imgs">
+                  <a class="d1a" href="#" > <img style="display:block;" src="img/1.jpg" /></a>
+                  <a class="d1a" href="#" > <img src="img/2.jpg"/></a>
+                  <a class="d1a" href="#" > <img src="img/3.jpg"/></a>
+                  <a class="d1a" href="#" > <img src="img/4.jpg"/></a>
+                  <a class="d1a" href="#" > <img src="img/5.jpg"/></a>
+                </div>
+                <div class="d2">
+
+                    <ul>
+                    <li>1</li>
+                    <li>2</li>
+                    <li>3</li>
+                    <li>4</li>
+                    <li>5</li>
+                    </ul>
+                    <div class="page">
+                      <a class="pre" href="javascript:void;"> < </a>
+                      <a class="next" href="javascript:void;"> > </a>
+                    </div>
+                </div>
+            </div>
+          <div class="content-md">
+            <a href="#"><img src="img/content-md-img1.png"/></a>
+            <a href="#"><img src="img/content-md-img2.png"/></a>
+          </div>
+          <div class="content-right">
+             <div class="content-right-inner1">
+               <a href="#"><img src="img/content-right-img.jpg"/></a>
+               <div class="content-right-inner1-1">
+                 <a href="#">Hi，欢迎来到琙雅兔！</a>
+                 <a href="#">登录</a>
+                 <a href="#">注册</a>
+               </div>
+               <div class="content-right-inner1-2">
+                 <a href="#">新人福利</a>
+                 <a href="#">PLUS会员</a>
+               </div>
+             </div>
+             <div class="content-right-inner2">
+               <div class="content-right-inner2-1">
+                  <a href="#">促销</a>
+                  <a href="#">|</a>
+                  <a href="#">公告</a>
+                  <a href="#">更多</a>
+               </div>
+               <div class="content-right-inner2-2">
+                 <a href="#">文具采购低至一元秒</a>
+                 <a href="#">家电买一送一</a>
+                 <a href="#">春运抢票</a>
+               </div>
+             </div>
+             <div class="content-right-inner3">
+               <ul>
+                  <li><a href="#"><img src="img/small-1.png"/></a></li>
+                  <li><a href="#"><img src="img/"/></a></li>
+                  <li><a href="#"><img src="img/"/></a></li>
+                  <li><a href="#"><img src="img/"/></a></li>
+                  <li><a href="#"><img src="img/"/></a></li>
+                  <li><a href="#"><img src="img/"/></a></li>
+                  <li><a href="#"><img src="img/"/></a></li>
+                  <li><a href="#"><img src="img/"/></a></li>
+                  <li><a href="#"><img src="img/"/></a></li>
+                  <li><a href="#"><img src="img/"/></a></li>
+                  <li><a href="#"><img src="img/"/></a></li>
+                  <li><a href="#"><img src="img/"/></a></li>
+               </ul>
+             </div>
+             <div class="content-right-inner4"></div>
+          </div>
+      </div>
+
+<div class="section1">
+  <ul>
+     <li>
+      <a href="#">
+        <img src="img/section1-img1.jpg"/>
+        <div class="price">
+           <p>膳魔师（THERMOS）高真空不锈钢 时尚保温/保冷水杯 保温杯</p>
+           <p><span><b>￥169.00</b></span><del>￥218.00</del></p>
+        </div>
+       </a>
+     </li>
+     <li>
+        <a href="#">
+        <img src="img/section1-img2.jpg"/>
+        <div class="price">
+           <p>360手机 Q5 4GB+128GB 全网通 流光金 移动联通电信4G手机</p>
+           <p><span><b>￥169.00</b></span><del>￥218.00</del></p>
+        </div>
+       </a>
+     </li>
+     <li>
+      <a href="#">
+        <img src="img/section1-img3.jpg"/>
+        <div class="price">
+           <p>Apple MacBook Air 13.3英寸笔记本电脑 银色(Core i5 处理</p>
+           <p><span><b>￥169.00</b></span><del>￥218.00</del></p>
+        </div>
+       </a>
+     </li>
+     <li>
+      <a href="#">
+        <img src="img/section1-img4.jpg"/>
+        <div class="price">
+           <p>博宇MS水族箱鱼缸生态中小型玻璃过滤办公室内 MS-220白色</p>
+           <p><span><b>￥169.00</b></span><del>￥218.00</del></p>
+        </div>
+       </a>
+    </li>
+    <li>
+      <a href="#">
+        <img src="img/section1-img5.jpg"/>
+        <div class="price">
+           <p>戴尔（DELL）Vostro 3650-R1408 四核i5台式机电脑 WiFi蓝</p>
+           <p><span><b>￥169.00</b></span><del>￥218.00</del></p>
+        </div>
+       </a>
+    </li>
+  </ul>
+  <a class="section1-right" href="javascript:;"><img src="img/section1-img6.png"></a>
+</div>
+<div class="section2">
+   <ul>
+      <li>
+         <div class="section2-top1">
+            <h3>发现好货</h3>
+            <a href="#">发现品质生活></a>
+         </div>
+         <div class="section2-content1">
+           <a href="#"><img src="img/section2-content1-img.png"/></a>
+           <a href="#"><img src="img/section2-content1-img.png"/></a>
+           <a href="#"><img src="img/section2-content1-img.png"/></a>
+           <a href="#"><img src="img/section2-content1-img.png"/></a>
+           <a href="#"><img src="img/section2-content1-img.png"/></a>
+           <a href="#"><img src="img/section2-content1-img.png"/></a>
+         </div>
+      </li>
+      <li>
+         <div class="section2-top2">
+            <h3>品牌头条</h3>
+            <a href="#">大牌资讯掌握></a>
+         </div>
+         <div class="section2-content2">
+           <a href="#"><img src="img/section2-content1-img2.png"/></a>
+           <a href="#"><img src="img/section2-content1-img2.png"/></a>
+           <a href="#"><img src="img/section2-content1-img2.png"/></a>
+           <a href="#"><img src="img/section2-content1-img2.png"/></a>
+           <a href="#"><img src="img/section2-content1-img2.png"/></a>
+           <a href="#"><img src="img/section2-content1-img2.png"/></a>
+         </div>
+      </li>
+      <li>
+         <div class="section2-top3">
+            <h3>排行榜</h3>
+            <a href="#">热卖爆款疯抢></a>
+         </div>
+         <div class="section2-content3">
+           <a href="#"><img src="img/section2-content1-img3.png"/></a>
+           <a href="#"><img src="img/section2-content1-img3.png"/></a>
+           <a href="#"><img src="img/section2-content1-img3.png"/></a>
+           <a href="#"><img src="img/section2-content1-img3.png"/></a>
+           <a href="#"><img src="img/section2-content1-img3.png"/></a>
+           <a href="#"><img src="img/section2-content1-img3.png"/></a>
+         </div>
+      </li>
+   </ul>
+</div>
+<div class="section3">
+  <div class="section3-header">
+     <a href="#"><img src="img/section3-header-img1.png"/></a>
+     <a href="#"><img src="img/section3-header-img2.png"/></a>
+     <a href="#"><img src="img/section3-header-img3.png"/></a>
+  </div>
+  <div class="section3-md">
+      <ul>
+          <li><a href="#"><img src="img/section3-md-img1.jpg"/></a></li>
+          <li><a href="#"><img src="img/section3-md-img2.jpg"/></a></li>
+          <li><a href="#"><img src="img/section3-md-img3.jpg"/></a></li>
+          <li><a href="#"><img src="img/section3-md-img4.jpg"/></a></li>
+          <li><a href="#"><img src="img/section3-md-img5.jpg"/></a></li>
+          <li><a href="#"><img src="img/section3-md-img6.jpg"/></a></li>
+          <li><a href="#"><img src="img/section3-md-img1.jpg"/></a></li>
+          <li><a href="#"><img src="img/section3-md-img2.jpg"/></a></li>
+          <li><a href="#"><img src="img/section3-md-img1.jpg"/></a></li>
+          <li><a href="#"><img src="img/section3-md-img6.jpg"/></a></li>
+          <li><a href="#"><img src="img/section3-md-img5.jpg"/></a></li>
+          <li><a href="#"><img src="img/section3-md-img4.jpg"/></a></li>
+          <li><a href="#"><img src="img/section3-md-img3.jpg"/></a></li>
+          <li><a href="#"><img src="img/section3-md-img2.jpg"/></a></li>
+          <li><a href="#"><img src="img/section3-md-img1.jpg"/></a></li>
+          <li><a href="#"><img src="img/section3-md-img3.jpg"/></a></li>
+          <li><a href="#"><img src="img/section3-md-img2.jpg"/></a></li>
+          <li><a href="#"><img src="img/section3-md-img1.jpg"/></a></li>
+      </ul>
+  </div>
+</div>
+<div class="section4">
+  <div class="section4-header">
+    <img src="img/section4-header-img.png"/>
+  </div>
+  <div class="section4-md">
+      <ul>
+          <li><a href="#"><img src="img/section4-md-img1.jpg"/></a></li>
+          <li><a href="#"><img src="img/section4-md-img2.jpg"/></a></li>
+          <li><a href="#"><img src="img/section4-md-img3.jpg"/></a></li>
+          <li><a href="#"><img src="img/section4-md-img4.jpg"/></a></li>
+          <li><a href="#"><img src="img/section4-md-img5.jpg"/></a></li>
+          <li><a href="#"><img src="img/section4-md-img6.jpg"/></a></li>
+      </ul>
+  </div>
+</div> 
+<div class="section5">
+  <!--此处调用section3-header部分-->
+   <div class="section3-header">
+     <a href="#"><img src="img/section3-header-img1.png"/></a>
+     <a href="#"><img src="img/section3-header-img2.png"/></a>
+     <a href="#"><img src="img/section3-header-img3.png"/></a>
+  </div>
+  <!--/-->
+  <!--此处调用section4-header部分-->
+  <div class="section4-header">
+    <img src="img/section5-header-img.png"/>
+  </div>
+  <!--/-->
+  <div class="section5-content">
+    <div class="section5-content1">
+     <div class="section5-item1">
+        <div class="section5-content1-header section5-header-bg1">
+           <h3>家电馆</h3>
+           <div class="section5-content1-header-right"> 
+            <a href="#">领券满减</a>
+            <a href="#">800-100</a>
+            <a href="#">电视家影</a>
+            <a href="#">抽空调券</a>
+            <a href="#">买一送一</a>
+          </div>
+        </div>
+        <div class="section5-content1-left">
+           <a href="#"><img src="img/section5-content1-left-img1.jpg"/></a>
+        </div>
+        <div class="section5-content1-md">
+           <a href="#"><img src="img/section5-content1-md-img1.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-md-img2.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-md-img3.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-md-img4.jpg"/></a>
+        </div>
+        <div class="section5-content1-right">
+           <a href="#"><img src="img/section5-content1-right-img1.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-right-img2.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-right-img3.jpg"/></a>
+        </div>
+     </div>
+     <!--此处调用section5-item1部分-->
+     <div class="section5-item1">
+         <div class="section5-content1-header section5-header-bg2">
+            <h3>搞机派</h3>
+            <div class="section5-content1-header-right"> 
+            <a href="#">金属全身</a>
+            <a href="#">快速充电</a>
+            <a href="#">神器拍照</a>
+            <a href="#">后置双摄像</a>
+            <a href="#">双卡双待</a>
+          </div>
+         </div>
+         <div class="section5-content1-left">
+           <a href="#"><img src="img/section5-content1-left-img2.jpg"/></a>
+         </div>
+         <div class="section5-content1-md">
+           <a href="#"><img src="img/section5-content1-md-img1.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-md-img2.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-md-img3.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-md-img4.jpg"/></a>
+         </div>
+         <div class="section5-content1-right">
+           <a href="#"><img src="img/section5-content1-right-img1.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-right-img2.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-right-img3.jpg"/></a>
+         </div>
+     </div>
+   </div>
+   <div class="section5-content2">
+     <div class="section5-item1">
+         <div class="section5-content1-header section5-header-bg3">
+            <h3>搞机派</h3>
+            <div class="section5-content1-header-right"> 
+            <a href="#">金属全身</a>
+            <a href="#">快速充电</a>
+            <a href="#">神器拍照</a>
+            <a href="#">后置双摄像</a>
+            <a href="#">双卡双待</a>
+          </div>
+         </div>
+         <div class="section5-content1-left">
+            <a href="#"><img src="img/section5-content1-left-img3.jpg"/></a>
+         </div>
+         <div class="section5-content1-md">
+           <a href="#"><img src="img/section5-content1-md-img1.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-md-img2.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-md-img3.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-md-img4.jpg"/></a>
+         </div>
+         <div class="section5-content1-right">
+           <a href="#"><img src="img/section5-content1-right-img1.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-right-img2.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-right-img3.jpg"/></a>
+         </div>
+     </div>
+     <div class="section5-item1">
+         <div class="section5-content1-header section5-header-bg4">
+            <h3>搞机派</h3>
+            <div class="section5-content1-header-right"> 
+            <a href="#">金属全身</a>
+            <a href="#">快速充电</a>
+            <a href="#">神器拍照</a>
+            <a href="#">后置双摄像</a>
+            <a href="#">双卡双待</a>
+          </div>
+         </div>
+         <div class="section5-content1-left">
+            <a href="#"><img src="img/section5-content1-left-img4.jpg"/></a>
+         </div>
+         <div class="section5-content1-md">
+           <a href="#"><img src="img/section5-content1-md-img1.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-md-img2.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-md-img3.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-md-img4.jpg"/></a>
+         </div>
+         <div class="section5-content1-right">
+           <a href="#"><img src="img/section5-content1-right-img1.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-right-img2.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-right-img3.jpg"/></a>
+         </div>
+     </div>
+     <!--/ -->
+   </div>    
+  </div>
+</div> 
+<div class="section6">
+  <!--此处调用section5-item1部分-->
+     <div class="section5-content">
+    <div class="section5-content1">
+     <div class="section5-item1">
+        <div class="section5-content1-header section5-header-bg1">
+           <h3>家电馆</h3>
+           <div class="section5-content1-header-right"> 
+            <a href="#">领券满减</a>
+            <a href="#">800-100</a>
+            <a href="#">电视家影</a>
+            <a href="#">抽空调券</a>
+            <a href="#">买一送一</a>
+          </div>
+        </div>
+        <div class="section5-content1-left">
+           <a href="#"><img src="img/section5-content1-left-img1.jpg"/></a>
+        </div>
+        <div class="section5-content1-md">
+           <a href="#"><img src="img/section5-content1-md-img1.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-md-img2.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-md-img3.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-md-img4.jpg"/></a>
+        </div>
+        <div class="section5-content1-right">
+           <a href="#"><img src="img/section5-content1-right-img1.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-right-img2.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-right-img3.jpg"/></a>
+        </div>
+     </div>
+     <!--此处调用section5-item1部分-->
+     <div class="section5-item1">
+         <div class="section5-content1-header section5-header-bg2">
+            <h3>搞机派</h3>
+            <div class="section5-content1-header-right"> 
+            <a href="#">金属全身</a>
+            <a href="#">快速充电</a>
+            <a href="#">神器拍照</a>
+            <a href="#">后置双摄像</a>
+            <a href="#">双卡双待</a>
+          </div>
+         </div>
+         <div class="section5-content1-left">
+           <a href="#"><img src="img/section5-content1-left-img2.jpg"/></a>
+         </div>
+         <div class="section5-content1-md">
+           <a href="#"><img src="img/section5-content1-md-img1.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-md-img2.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-md-img3.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-md-img4.jpg"/></a>
+         </div>
+         <div class="section5-content1-right">
+           <a href="#"><img src="img/section5-content1-right-img1.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-right-img2.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-right-img3.jpg"/></a>
+         </div>
+     </div>
+   </div>
+   <div class="section5-content2">
+     <div class="section5-item1">
+         <div class="section5-content1-header section5-header-bg3">
+            <h3>搞机派</h3>
+            <div class="section5-content1-header-right"> 
+            <a href="#">金属全身</a>
+            <a href="#">快速充电</a>
+            <a href="#">神器拍照</a>
+            <a href="#">后置双摄像</a>
+            <a href="#">双卡双待</a>
+          </div>
+         </div>
+         <div class="section5-content1-left">
+            <a href="#"><img src="img/section5-content1-left-img3.jpg"/></a>
+         </div>
+         <div class="section5-content1-md">
+           <a href="#"><img src="img/section5-content1-md-img1.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-md-img2.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-md-img3.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-md-img4.jpg"/></a>
+         </div>
+         <div class="section5-content1-right">
+           <a href="#"><img src="img/section5-content1-right-img1.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-right-img2.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-right-img3.jpg"/></a>
+         </div>
+     </div>
+     <div class="section5-item1">
+         <div class="section5-content1-header section5-header-bg4">
+            <h3>搞机派</h3>
+            <div class="section5-content1-header-right"> 
+            <a href="#">金属全身</a>
+            <a href="#">快速充电</a>
+            <a href="#">神器拍照</a>
+            <a href="#">后置双摄像</a>
+            <a href="#">双卡双待</a>
+          </div>
+         </div>
+         <div class="section5-content1-left">
+            <a href="#"><img src="img/section5-content1-left-img4.jpg"/></a>
+         </div>
+         <div class="section5-content1-md">
+           <a href="#"><img src="img/section5-content1-md-img1.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-md-img2.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-md-img3.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-md-img4.jpg"/></a>
+         </div>
+         <div class="section5-content1-right">
+           <a href="#"><img src="img/section5-content1-right-img1.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-right-img2.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-right-img3.jpg"/></a>
+         </div>
+     </div>
+     <!--/ -->
+   </div>    
+  </div>
+  <!--/ -->
+</div> 
+<div class="section7">
+    <!--此处调用section3-header部分-->
+   <div class="section3-header">
+     <a href="#"><img src="img/section3-header-img1.png"/></a>
+     <a href="#"><img src="img/section3-header-img2.png"/></a>
+     <a href="#"><img src="img/section3-header-img3.png"/></a>
+  </div>
+  <!--/-->
+   <!--此处调用section5-item1部分-->
+     <div class="section5-content">
+    <div class="section5-content1">
+     <div class="section5-item1">
+        <div class="section5-content1-header section5-header-bg1">
+           <h3>家电馆</h3>
+           <div class="section5-content1-header-right"> 
+            <a href="#">领券满减</a>
+            <a href="#">800-100</a>
+            <a href="#">电视家影</a>
+            <a href="#">抽空调券</a>
+            <a href="#">买一送一</a>
+          </div>
+        </div>
+        <div class="section5-content1-left">
+           <a href="#"><img src="img/section5-content1-left-img1.jpg"/></a>
+        </div>
+        <div class="section5-content1-md">
+           <a href="#"><img src="img/section5-content1-md-img1.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-md-img2.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-md-img3.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-md-img4.jpg"/></a>
+        </div>
+        <div class="section5-content1-right">
+           <a href="#"><img src="img/section5-content1-right-img1.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-right-img2.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-right-img3.jpg"/></a>
+        </div>
+     </div>
+     <!--此处调用section5-item1部分-->
+     <div class="section5-item1">
+         <div class="section5-content1-header section5-header-bg2">
+            <h3>搞机派</h3>
+            <div class="section5-content1-header-right"> 
+            <a href="#">金属全身</a>
+            <a href="#">快速充电</a>
+            <a href="#">神器拍照</a>
+            <a href="#">后置双摄像</a>
+            <a href="#">双卡双待</a>
+          </div>
+         </div>
+         <div class="section5-content1-left">
+           <a href="#"><img src="img/section5-content1-left-img2.jpg"/></a>
+         </div>
+         <div class="section5-content1-md">
+           <a href="#"><img src="img/section5-content1-md-img1.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-md-img2.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-md-img3.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-md-img4.jpg"/></a>
+         </div>
+         <div class="section5-content1-right">
+           <a href="#"><img src="img/section5-content1-right-img1.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-right-img2.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-right-img3.jpg"/></a>
+         </div>
+     </div>
+   </div>
+   <div class="section5-content2">
+     <div class="section5-item1">
+         <div class="section5-content1-header section5-header-bg3">
+            <h3>搞机派</h3>
+            <div class="section5-content1-header-right"> 
+            <a href="#">金属全身</a>
+            <a href="#">快速充电</a>
+            <a href="#">神器拍照</a>
+            <a href="#">后置双摄像</a>
+            <a href="#">双卡双待</a>
+          </div>
+         </div>
+         <div class="section5-content1-left">
+            <a href="#"><img src="img/section5-content1-left-img3.jpg"/></a>
+         </div>
+         <div class="section5-content1-md">
+           <a href="#"><img src="img/section5-content1-md-img1.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-md-img2.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-md-img3.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-md-img4.jpg"/></a>
+         </div>
+         <div class="section5-content1-right">
+           <a href="#"><img src="img/section5-content1-right-img1.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-right-img2.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-right-img3.jpg"/></a>
+         </div>
+     </div>
+     <div class="section5-item1">
+         <div class="section5-content1-header section5-header-bg4">
+            <h3>搞机派</h3>
+            <div class="section5-content1-header-right"> 
+            <a href="#">金属全身</a>
+            <a href="#">快速充电</a>
+            <a href="#">神器拍照</a>
+            <a href="#">后置双摄像</a>
+            <a href="#">双卡双待</a>
+          </div>
+         </div>
+         <div class="section5-content1-left">
+            <a href="#"><img src="img/section5-content1-left-img4.jpg"/></a>
+         </div>
+         <div class="section5-content1-md">
+           <a href="#"><img src="img/section5-content1-md-img1.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-md-img2.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-md-img3.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-md-img4.jpg"/></a>
+         </div>
+         <div class="section5-content1-right">
+           <a href="#"><img src="img/section5-content1-right-img1.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-right-img2.jpg"/></a>
+           <a href="#"><img src="img/section5-content1-right-img3.jpg"/></a>
+         </div>
+     </div>
+     <!--/ -->
+   </div>    
+  </div>
+  <!--/ -->
+</div> 
+<div class="section8">
+   <!--此处调用section4-header部分-->
+  <div class="section4-header">
+    <img src="img/section8-header-img.png"/>
+  </div>
+  <!--/-->
+  <div class="section8-header">
+    <ul>
+      <li><a href="#"><img src="img/section8-header-img1.jpg"/></a></li>
+      <li><a href="#"><img src="img/section8-header-img2.jpg"/></a></li>
+      <li><a href="#"><img src="img/section8-header-img3.jpg"/></a></li>
+      <li><a href="#"><img src="img/section8-header-img4.jpg"/></a></li>
+      <li><a href="#"><img src="img/section8-header-img5.jpg"/></a></li>
+      <li><a href="#"><img src="img/section8-header-img6.jpg"/></a></li>
+      <li><a href="#"><img src="img/section8-header-img7.jpg"/></a></li>
+    </ul>
+  </div>
+  <!--此处调用section3-header部分-->
+   <div class="section3-header">
+     <a href="#"><img src="img/section3-header-img1.png"/></a>
+     <a href="#"><img src="img/section3-header-img2.png"/></a>
+     <a href="#"><img src="img/section3-header-img3.png"/></a>
+  </div>
+  <!--/-->
+</div> 
+<div class="section9">
+    <!--此处调用section4-header部分-->
+  <div class="section4-header">
+    <img src="img/section9-header-img.png"/>
+  </div>
+  <!--/-->
+   <ul class="section9-show">
+      <li><a href="#"><img src="img/section9-show-img1.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img2.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img3.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img4.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img5.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img6.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img7.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img8.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img9.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img10.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img1.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img2.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img3.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img4.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img5.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img6.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img7.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img8.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img9.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img10.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img1.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img2.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img3.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img4.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img5.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img6.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img7.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img8.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img9.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img10.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img1.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img2.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img3.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img4.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img5.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img6.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img7.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img8.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img9.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img10.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img1.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img2.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img3.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img4.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img5.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img6.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img7.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img8.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img9.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img10.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img1.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img2.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img3.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img4.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img5.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img6.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img7.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img8.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img9.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img10.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img1.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img2.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img3.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img4.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img5.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img6.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img7.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img8.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img9.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img10.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img1.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img2.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img3.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img4.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img5.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img6.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img7.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img8.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img9.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img10.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img1.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img2.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img3.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img4.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img5.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img6.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img7.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img8.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img9.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img10.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img1.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img2.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img3.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img4.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img5.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img6.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img7.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img8.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img9.jpg"/></a></li>
+      <li><a href="#"><img src="img/section9-show-img10.jpg"/></a></li>
+   </ul>
+</div> 
+<div class="footer">
+<div class="footer-left">
+   <img src="img/footer-left.jpg"/>
+   <p>关注琙雅兔公众号</p>
+</div>
+<div class="footer-md">
+    <dl>
+      <dt><strong>关于琙雅兔</strong></dt>
+      <dd><a href="#">公司简介</a></dd>
+      <dd><a href="#">公司文化</a></dd>
+      <dd><a href="#">团队力量</a></dd>
+      <dd><a href="#">公司地址</a></dd>
+      <dd><a href="#">联系我们</a></dd>
+    </dl>
+    <dl>
+      <dt><strong>网站建设</strong></dt>
+      <dd><a href="#">全球营销网站</a></dd>
+      <dd><a href="#">高端设计网站</a></dd>
+      <dd><a href="#">企业展示网站</a></dd>
+      <dd><a href="#">购物商城网站</a></dd>
+      <dd><a href="#">外贸交易网站</a></dd>
+    </dl>
+    <dl>
+      <dt><strong>移动网站</strong></dt>
+      <dd><a href="#">响应式网站</dd>
+      <dd><a href="#">手机APP网站</a></dd>
+      <dd><a href="#">微信网站</a></dd>
+      <dd><a href="#">网站改版</a></dd>
+      <dd><a href="#">网站推广</a></dd>
+    </dl>
+    <dl>
+      <dt><strong>其他服务</strong></dt>
+      <dd><a href="#">SEO优化</a></dd>
+      <dd><a href="#">域名注册</a></dd>
+      <dd><a href="#">空间租用</a></dd>
+      <dd><a href="#">云主机租用</a></dd>
+      <dd><a href="#">网易企业邮箱</a></dd>
+    </dl>
+</div>
+<div class="footer-right">
+  <img src="img/footer-right.png"/>
+  <div class="footer-right-top">
+    <span>销售热线:</span>8888-888-888<br/>
+    <span>售后热线:</span>9999-999-999
+  </div>
+  <div class="footer-right-bottom">
+    <div class="footer-right-bottom-inner">分店</div>
+    <a href="#">上海</a>
+    <a href="#">上海</a>
+    <a href="#">上海</a>
+    <a href="#">上海</a>
+    <a href="#">上海</a>
+    <a href="#">上海</a>
+    <a href="#">上海</a>
+    <a href="#">上海</a>
+    <a href="#">上海</a>
+    <a href="#">上海</a>
+    <a href="#">上海</a>
+    <a href="#">上海</a>
+    <a href="#">上海</a>
+  </div>
+</div>
+<div class="footer-bottom">
+  <div class="footer-bottom-left">
+     <a href="#">版权所有 2006-2016 琙雅兔网</a>
+     <a href="#">粤ICP备09037294号-4 </a>
+     <a href="#">销售热线：8888-888-888 </a>
+     <a href="#"> 售后热线：9999-999-999</a>
+  </div>
+  <div class="footer-bottom-right">
+     <a href="#"> 招贤纳士</a>
+     <a href="#">|</a>
+     <a href="#">在线预订</a>
+     <a href="#">|</a>
+     <a href="#">联系我们</a>
+     <a href="#">|</a>
+     <a href="#">网站地图</a>
+     <a href="#"><img src="img/footer.gif"/></a>
+  </div>
+</div>
+</div>
+</body>
+</html>
+
+
+
