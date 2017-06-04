@@ -115,11 +115,15 @@ $(function(){
 	},function(){
 	$(this).find("img").animate({width:"190px",height:"130px"},500);
 	})
-	//底部新闻区
-	$(".section5-left-md a").hover(function(){
-	$(this).find("img").animate({width:"572px",height:"223px"},500);
-	},function(){
-	$(this).find("img").animate({width:"562px",height:"203px"},500);
-	})
+	 //底部更多展示
+	 function data(){
+		 var oDa=document.querySelector(".section9-show");
+		 var lth=json.data.length; //console.log(oDa);
+		 for(var i=0;i<lth;i++){
+		  var str='<li><a href="#"><img src="'+json.data[i].src+'"/></a></li>';
+		  oDa.innerHTML+=str;
+		 }
+	 }
+ data();
 })
 
