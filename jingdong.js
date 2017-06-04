@@ -14,10 +14,10 @@ $(function(){
 	$("html,body").animate({scrollTop:"0px"},1);
 	})
 
-	//当滚动轴top大于1000时出现，否则消失
+	//当滚动轴top大于200时出现，否则消失
 	 $(window).scroll(function(){
 		var t=$(this).scrollTop();
-		if(t>1000){
+		if(t>200){
 	  $(".news-left").css("display","block");
 		}
 		else{
@@ -25,10 +25,10 @@ $(function(){
 		}
 	 });
 
-	//当滚动轴top大于500时最顶部搜索区出现，否则消失
+	//当滚动轴top大于50时最顶部搜索区出现，否则消失
 	$(window).scroll(function(){
 		var t=$(this).scrollTop();
-		if(t>500){
+		if(t>50){
 	  $(".top-scroll").slideDown(500);
 		}
 		else{
